@@ -1,7 +1,7 @@
 import { Layout, Menu } from "antd";
 import "antd/dist/antd.css";
 import ChatUI from "./ChatUI";
-import { UploadOutlined, UserOutlined, ProfileOutlined, VideoCameraOutlined, UsergroupAddOutlined, HomeOutlined, IdcardFilled } from '@ant-design/icons'
+import { UserOutlined, VideoCameraOutlined, UsergroupAddOutlined, HomeOutlined, IdcardFilled } from '@ant-design/icons'
 
 const { Header, Content, Footer } = Layout;
 
